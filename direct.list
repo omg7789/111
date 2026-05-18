@@ -1,7 +1,5 @@
 #传文件
 DOMAIN-SUFFIX,wormhole.app
-#乔安设备
-DOMAIN-SUFFIX,jooancloud.com
 #op定制
 DOMAIN-SUFFIX,openwrt.ai
 #模拟人生
