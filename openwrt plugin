@@ -31,13 +31,15 @@ PACKAGES="$PACKAGES luci-i18n-zerotier-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-uhttpd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-nlbwmon-zh-cn"
 PACKAGES="$PACKAGES luci-theme-bootstrap"
-PACKAGES="$PACKAGES kmod-usb-net-rndis"
-PACKAGES="$PACKAGES kmod-usb-net"
+PACKAGES="$PACKAGES kmod-usb-net-rndis"    #安卓usb热点
+PACKAGES="$PACKAGES kmod-usb-net"          #安卓usb热点
 PACKAGES="$PACKAGES kmod-iwlwifi"
 PACKAGES="$PACKAGES iwlwifi-firmware-iwl7260"
-PACKAGES="$PACKAGES hostapd"
-PACKAGES="$PACKAGES headscale"
-PACKAGES="$PACKAGES kmod-i6300esb-wdt"
+PACKAGES="$PACKAGES hostapd"               #wifi密码
+PACKAGES="$PACKAGES tailscale"
+PACKAGES="$PACKAGES kmod-i6300esb-wdt"     #pve看门狗
+PACKAGES="$PACKAGES socat"                 #反穿透
+PACKAGES="$PACKAGES autossh"               #反穿透
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
