@@ -40,6 +40,8 @@ PACKAGES="$PACKAGES tailscale"
 PACKAGES="$PACKAGES kmod-i6300esb-wdt"     #pve看门狗
 PACKAGES="$PACKAGES socat"                 #反穿透
 PACKAGES="$PACKAGES autossh"               #反穿透
+PACKAGES="$PACKAGES procd"                 #反穿透定时启动
+
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
