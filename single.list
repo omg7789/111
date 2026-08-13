@@ -11,4 +11,4 @@ DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redditmedia.com
 #ytmusic
-#DOMAIN-SUFFIX,music.youtube.com
+DOMAIN-SUFFIX,music.youtube.com
