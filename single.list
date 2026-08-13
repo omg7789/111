@@ -4,6 +4,11 @@ DOMAIN-KEYWORD,binancezh
 DOMAIN-KEYWORD,bnappzh
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bntrace.com
+#metamask
+DOMAIN-KEYWORD,metamask
+DOMAIN-SUFFIX,linea.build
+DOMAIN-SUFFIX,consensys.net
+DOMAIN-SUFFIX,infura.io
 #reddit
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redd.it
