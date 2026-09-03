@@ -13,3 +13,8 @@ DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xiongmaojv.top
 DOMAIN-SUFFIX,xiongmaogb.top
+#微软更新
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,update.microsoft.com
+DOMAIN-SUFFIX,delivery.mp.microsoft.com
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
