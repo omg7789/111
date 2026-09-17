@@ -7,12 +7,7 @@ DOMAIN-SUFFIX,cloudcell.com
 #远程
 DOMAIN-KEYWORD,todesk
 #cf重定向
-DOMAIN-SUFFIX,icoa.cn
-DOMAIN-SUFFIX,icoa.vip
-DOMAIN-SUFFIX,appstorrent.ru
-DOMAIN-SUFFIX,xclient.info
-DOMAIN-SUFFIX,xiongmaojv.top
-DOMAIN-SUFFIX,xiongmaogb.top
+
 #微软更新
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,update.microsoft.com
