@@ -27,6 +27,6 @@ DOMAIN-SUFFIX,v6.66666.host
 DOMAIN-SUFFIX,myip6.ipip.net
 DOMAIN-SUFFIX,6.ipw.cn
 DOMAIN-SUFFIX,v6.666666.host
-#windows-ntp
+#NTP
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,ntp.ntsc.ac.cn
