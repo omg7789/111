@@ -4,10 +4,7 @@ DOMAIN-SUFFIX,wormhole.app
 DOMAIN-SUFFIX,openwrt.ai
 #模拟人生
 DOMAIN-SUFFIX,cloudcell.com
-#远程
-DOMAIN-KEYWORD,todesk
 #cf重定向
-
 #微软更新
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,update.microsoft.com
