@@ -44,9 +44,9 @@ PACKAGES="$PACKAGES tailscale"
 #pve看门狗
 PACKAGES="$PACKAGES kmod-i6300esb-wdt"
 #反穿透
-PACKAGES="$PACKAGES socat"
-PACKAGES="$PACKAGES autossh"
-PACKAGES="$PACKAGES procd"
+#PACKAGES="$PACKAGES socat"
+#PACKAGES="$PACKAGES autossh"
+#PACKAGES="$PACKAGES procd"
 
 
 # 文件管理器
