@@ -32,23 +32,30 @@ PACKAGES="$PACKAGES luci-i18n-uhttpd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-nlbwmon-zh-cn"
 PACKAGES="$PACKAGES luci-theme-bootstrap"
 PACKAGES="$PACKAGES luci-app-openlist"
+
+PACKAGES="$PACKAGES tailscale"
+#wifi
+PACKAGES="$PACKAGES kmod-iwlwifi"
+PACKAGES="$PACKAGES hostapd"
+PACKAGES="$PACKAGES hostapd-common
+PACKAGES="$PACKAGES wpad-openssl
+PACKAGES="$PACKAGES kmod-mt7921e
+PACKAGES="$PACKAGES kmod-mt7922-firmware
+#usb热点基础件
+PACKAGES="$PACKAGES kmod-usb3"
+PACKAGES="$PACKAGES kmod-usb-net"
 #安卓usb热点
 PACKAGES="$PACKAGES kmod-usb-net-rndis"
-#安卓usb热点
-PACKAGES="$PACKAGES kmod-usb-net"
-PACKAGES="$PACKAGES kmod-iwlwifi"
-PACKAGES="$PACKAGES iwlwifi-firmware-iwl7260"
-#wifi密码
-PACKAGES="$PACKAGES hostapd"              
-PACKAGES="$PACKAGES tailscale"
+#苹果usb热点
+PACKAGES="$PACKAGES kmod-usb-net-ipheth"
+PACKAGES="$PACKAGES usbmuxd"
+PACKAGES="$PACKAGES libimobiledevice"
 #pve看门狗
 PACKAGES="$PACKAGES kmod-i6300esb-wdt"
 #反穿透
 #PACKAGES="$PACKAGES socat"
 #PACKAGES="$PACKAGES autossh"
 #PACKAGES="$PACKAGES procd"
-
-
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
 
